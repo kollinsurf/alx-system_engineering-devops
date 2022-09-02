@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This a repository for shell basics tasks
